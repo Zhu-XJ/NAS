@@ -15,8 +15,9 @@
   - [模型量化](#模型量化)
   - [模型蒸馏](#模型蒸馏)
   - [动态推理](#动态推理)
-  
-#
+ 
+ 
+### 神经网络结构搜索
 + 2019 | HAQ: Hardware-Aware Automated Quantization with Mixed Precision  | CVPR | [`PDF`](https://arxiv.org/pdf/1811.08886.pdf) |[`code`](https://github.com/mit-han-lab/haq)
 + 2019 | ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | ICLR | [`PDF`](https://arxiv.org/pdf/1812.00332.pdf) |[`code`](https://github.com/mit-han-lab/proxylessnas)
 + 2019 | Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning | ICCAD | [`link`](https://www.researchgate.net/publication/337821437_Mixed_Precision_Neural_Architecture_Search_for_Energy_Efficient_Deep_Learning)
