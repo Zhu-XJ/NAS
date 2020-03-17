@@ -14,5 +14,11 @@
 - 薰风读论文：Deep Compression 神经网络压缩经典之作 -[MC](https://zhuanlan.zhihu.com/p/77737098)
 
 ### CDSN
+- 深度学习模型压缩方法综述（一） -[MC](https://blog.csdn.net/wspba/article/details/75671573)
+- 深度学习模型压缩方法综述（二） -[MC](https://blog.csdn.net/wspba/article/details/75675554)
+- 深度学习模型压缩方法综述（三） -[MC](https://blog.csdn.net/wspba/article/details/76039135)
+- HAQ：硬件感知自动化量化框架 -[NAS](https://blog.csdn.net/librahfacebook/article/details/95733314)
+- 【论文阅读笔记】darts代码和论文结合阅读 -[NAS](https://blog.csdn.net/zxfhahaha/article/details/102747427?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+
 
 ### Github
