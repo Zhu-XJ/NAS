@@ -13,6 +13,15 @@
 - 网络搜索之DARTS, GDAS, DenseNAS, P-DARTS, PC-DARTS -[NAS](https://zhuanlan.zhihu.com/p/73740783)
 - 薰风读论文：Deep Compression 神经网络压缩经典之作 -[MC](https://zhuanlan.zhihu.com/p/77737098)
 
++ 2019 | HAQ: Hardware-Aware Automated Quantization with Mixed Precision  | CVPR | [`PDF`](https://arxiv.org/pdf/1811.08886.pdf) |[`code`](https://github.com/mit-han-lab/haq)
++ 2019 | ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | ICLR | [`PDF`](https://arxiv.org/pdf/1812.00332.pdf) |[`code`](https://github.com/mit-han-lab/proxylessnas)
++ 2019 | Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning | ICCAD | [`link`](https://www.researchgate.net/publication/337821437_Mixed_Precision_Neural_Architecture_Search_for_Energy_Efficient_Deep_Learning)
++ 2019 | Neural Architecture Search: A Survey  | [`PDF`](https://arxiv.org/pdf/1808.05377v2.pdf)
++ 2019 | DARTS: Differentiable Architecture Search  | ICLR | [`PDF`](https://arxiv.org/pdf/1806.09055.pdf) |[`code`](https://github.com/quark0/darts)
++ 2019 | PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search | [`PDF`](https://arxiv.org/pdf/1907.05737v1.pdf) |[`code`](https://github.com/yuhuixu1993/PC-DARTS)
++ 2019 | FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search | [`PDF`](https://arxiv.org/pdf/1812.03443v1.pdf) |[`code`](https://github.com/yuhuixu1993/PC-DARTS)
++ 2017 | Neural Architecture Search with Reinforcement Learning  | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578v2.pdf) |[`code`](https://github.com/titu1994/neural-architecture-search)
+
 ### CDSN
 - 深度学习模型压缩方法综述（一） -[MC](https://blog.csdn.net/wspba/article/details/75671573)
 - 深度学习模型压缩方法综述（二） -[MC](https://blog.csdn.net/wspba/article/details/75675554)
