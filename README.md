@@ -24,5 +24,5 @@
 - Efficient Neural Architecture Search via Parameters Sharing -[ENAS](https://github.com/carpedm20/ENAS-pytorch)
 - Direct Neural Architecture Search on Target Task and Hardware -[ProxylessNAS](https://github.com/mit-han-lab/proxylessnas)
 - Hardware-Aware Automated Quantization with Mixed Precision -[HAQ](https://github.com/mit-han-lab/haq)
-
-- 
+- Differentiable Architecture Search -[DARTS](https://github.com/quark0/darts)
+- Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search -[FBNet](https://github.com/AnnaAraslanova/FBNet)
