@@ -21,3 +21,8 @@
 - 【论文阅读笔记】darts代码和论文结合阅读 -[NAS](https://blog.csdn.net/zxfhahaha/article/details/102747427?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 
 ### Github
+- Efficient Neural Architecture Search via Parameters Sharing -[ENAS]（https://github.com/carpedm20/ENAS-pytorch）
+- Direct Neural Architecture Search on Target Task and Hardware -[ProxylessNAS](https://github.com/mit-han-lab/proxylessnas)
+- Hardware-Aware Automated Quantization with Mixed Precision -[HAQ](https://github.com/mit-han-lab/haq)
+
+- 
