@@ -28,6 +28,13 @@
 + 2018 | Mixed precision quantization of convnets via differentiable neural architecture search | [`PDF`](https://arxiv.org/pdf/1812.00090.pdf)
 + 2017 | Neural Architecture Search with Reinforcement Learning  | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578v2.pdf) |[`code`](https://github.com/titu1994/neural-architecture-search)
 
+
+### 神经网络压缩方法
+
++ 2018 | Stochastic layerwise precision in deep neural networks | [`PDF`](https://arxiv.org/pdf/1807.00942.pdf)
++ 2016 | Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding | [`PDF`](https://arxiv.org/pdf/1510.00149.pdf)
+
+
 ### 知乎
 - 神经网络架构搜索-Survey -[`NAS`](https://zhuanlan.zhihu.com/p/97558421)
 - 神经网络压缩综述 -[`MC`](https://zhuanlan.zhihu.com/p/58705979)
