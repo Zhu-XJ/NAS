@@ -25,6 +25,7 @@
 + 2019 | DARTS: Differentiable Architecture Search  | ICLR | [`PDF`](https://arxiv.org/pdf/1806.09055.pdf) |[`code`](https://github.com/quark0/darts)
 + 2019 | PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search | [`PDF`](https://arxiv.org/pdf/1907.05737v1.pdf) |[`code`](https://github.com/yuhuixu1993/PC-DARTS)
 + 2019 | FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search | [`PDF`](https://arxiv.org/pdf/1812.03443v1.pdf) |[`code`](https://github.com/yuhuixu1993/PC-DARTS)
++ 2018 | Mixed precision quantization of convnets via differentiable neural architecture search | [`PDF`](https://arxiv.org/pdf/1812.00090.pdf)
 + 2017 | Neural Architecture Search with Reinforcement Learning  | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578v2.pdf) |[`code`](https://github.com/titu1994/neural-architecture-search)
 
 ### 知乎
