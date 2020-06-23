@@ -63,10 +63,3 @@
 - HAQ：硬件感知自动化量化框架 -[`NAS`](https://blog.csdn.net/librahfacebook/article/details/95733314)
 - 【论文阅读笔记】darts代码和论文结合阅读 -[`NAS`](https://blog.csdn.net/zxfhahaha/article/details/102747427?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 
-论文	方法	代码
-HAQ	RL	https://github.com/mit-han-lab/haq
-EnergyawareNAS	RL + Differentiable	未开源
-DARTS	Differentiable	https://github.com/quark0/darts
-FBNet	Differentiable	https://github.com/AnnaAraslanova/FBNet
-Oneshot	进化	https://github.com/ShunLu91/Single-Path-One-Shot-NAS
-PC-DARTS	Differentiable	https://github.com/yuhuixu1993/PC-DARTS
