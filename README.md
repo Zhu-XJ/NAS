@@ -28,6 +28,14 @@
 + 2018 | Mixed precision quantization of convnets via differentiable neural architecture search | [`PDF`](https://arxiv.org/pdf/1812.00090.pdf)
 + 2017 | Neural Architecture Search with Reinforcement Learning  | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578v2.pdf) |[`code`](https://github.com/titu1994/neural-architecture-search)
 
+| paper          | search algorithm    | hardware info               | hardware platform                     |
+| -------------- | ------------------- | --------------------------- | ------------------------------------- |
+| HAQ            | RL                  | energy, latency, model size | Xilinx Zynq-7020 FPGA, Xilinx VU9P    |
+| EnergyawareNAS | RL + Differentiable | energy                      | Samsung Galaxy S8, iPhone X           |
+| FBNet          | Differentiable      | latency                     | a simulator for Bit Fusion(dnnweaver) |
+| DARTS          | Differentiable      | none                        | none                                  |
+| Oneshot NAS    | Envolution          | none                        | none                                  |
+
 
 ### 神经网络压缩方法
 
